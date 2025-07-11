@@ -77,7 +77,7 @@ This project uses the following Python standard libraries:
 ## 👨‍💻 Project Contributors
 
 - **Masooma Hassan** 
-- **Muhammad Haris** @Perister2904  
+- **Muhammad Haris** [@Perister2904](https://github.com/Perister2904)  
 - **Muhammad Abdullah**  
 
 ---
